@@ -20,8 +20,10 @@ Presenta el uso de:
 <p><b>Breve descripcion:</b><br>
 El programa calcula e imprime la factura de una compañía de telefonía celular<br>
 La compañia cuenta con 2 tipos de servicios:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;-Regular<br>
-&nbsp;&nbsp;&nbsp;&nbsp;-Premium<br>
+  <ul>
+    <li>Regular</li>
+    <li>Premium</li>
+  </ul>
 El servicio regular tiene un costo de $10 base por 50 minutos más $0.2 por cada minuto extra<br>
 El servicio premiun tiene un precio base de $25 por 75 minutos en el dia y 100 minutos en la noche, más $0.1 por cada minuto extra de dia y $0.05 por cada minuto extra de noche 
 </p>
